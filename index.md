@@ -23,8 +23,10 @@ A modular 2FA Authentication base digital solution to start your web/app enhance
 
 |  Available   | Future Developments |
 |:-------------|:-------------|
-| [https://www.labsmobile.com/](https://www.labsmobile.com/) ||           | 
-| ![](documentation/img/labsMobile.jpg) ||
+| [https://www.labsmobile.com/](https://www.labsmobile.com/) |           | 
+| ![](documentation/img/labsMobile.jpg) | Modular property and SMS plugin pattern let´s Step-By-Step increase easily the number of other SMS plugin providers |
+
+
 
 ## Email providers
 
