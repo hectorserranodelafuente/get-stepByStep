@@ -46,6 +46,18 @@ A modular 2FA Authentication base digital solution to start your web/app enhance
 |  |   |   |
 |![](documentation/img/logosProviders/aol.jpg)| ![](documentation/img/logosProviders/brevo.jpg)|  ![](documentation/img/logosProviders/debugMail.jpg) |
 |  |   |   |
+|![](documentation/img/logosProviders/dyn.jpg)| ![](documentation/img/logosProviders/fastEmail.jpg)|  ![](documentation/img/logosProviders/gandi.jpg) |
+|  |   |   |
+|![](documentation/img/logosProviders/mailChimp.jpg)| ![](documentation/img/logosProviders/mailee.jpg)|  ![](documentation/img/logosProviders/mailjet.jpg) |
+|  |   |   |
+|![](documentation/img/logosProviders/onlineee.jpg)| ![](documentation/img/logosProviders/postmark.jpg)|  ![](documentation/img/logosProviders/mandrill.jpg) |
+|  |   |   |
+|![](documentation/img/logosProviders/sendcloud.jpg)| ![](documentation/img/logosProviders/sendgrid.jpg)|  ![](documentation/img/logosProviders/sparkpost.jpg) |
+|  |   |   |
+|![](documentation/img/logosProviders/yahoo.jpg)| ![](documentation/img/logosProviders/yandex.jpg)|  ![](documentation/img/logosProviders/zoho.jpg) |
+|  |   |   |
+
+
 
 ### Header 3
 
