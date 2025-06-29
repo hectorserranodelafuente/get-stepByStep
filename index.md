@@ -30,9 +30,19 @@ A modular 2FA Authentication base digital solution to start your web/app enhance
 
 ## Email providers
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+| NODEMAILER   |
+|:-------------|
+|![](documentation/img/logosProviders/nodeMAiler.jpg)|
+| Step by Step integrates nodeMailer so it allows to use a high number of email providers|
+| https://nodemailer.com |
+
+
+
+|        |          |           |
+|:-------------|:------------------|:------|
+| IONOS | AMAZON | MICROSOFT | GMAIL |
+|![](documentation/img/logosProviders/ionos.jpg)| ![](documentation/img/logosProviders/microsoft.jpg)|  ![](documentation/img/logosProviders/gmail.jpg) | ![](documentation/img/logosProviders/amazon.jpg)
+| **VERIFIED** |   |   |
 
 ### Header 3
 
