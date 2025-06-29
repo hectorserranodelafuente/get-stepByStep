@@ -21,7 +21,7 @@ A modular 2FA Authentication base digital solution to start your web/app enhance
 
 ## SMS providers
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+![](documentation/img/labsMobile.jpg)
 
 ## Email providers
 
