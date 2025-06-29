@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# REPOSITORIES COMPOSITION
+# Repositories composition
 
 [stepByStep-starter-kit](https://github.com/hectorserranodelafuente/stepByStep-starter-kit).
 
