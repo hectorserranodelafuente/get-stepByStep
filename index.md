@@ -30,17 +30,17 @@ A modular 2FA Authentication base digital solution to start your web/app enhance
 
 ## Email providers
 
-| NODEMAILER   |
+|    |
 |:-------------|
 |![](documentation/img/logosProviders/nodeMailer.jpg)|
 | Step by Step integrates nodeMailer so it allows to use a high number of email providers|
-| https://nodemailer.com |
+| [nodeMailer](https://nodemailer.com) |
 
 
 
 |        |          |           |
 |:-------------|:------------------|:------|
-|![](documentation/img/logosProviders/ionos.jpg)| ![](documentation/img/logosProviders/microsoft.jpg)|  ![](documentation/img/logosProviders/gmail.jpg) | ![](documentation/img/logosProviders/amazon.jpg)
+|![](documentation/img/logosProviders/ionos.jpg)| ![](documentation/img/logosProviders/microsoft.jpg)|  ![](documentation/img/logosProviders/gmail.jpg) |
 | **VERIFIED** |   |   |
 
 ### Header 3
