@@ -38,30 +38,23 @@ A modular 2FA Authentication base digital solution to start your web/app enhance
 
 
 
-|**VERIFIED PROVIDER**|
-|:-------------|
+### Verified email provider
+
 |![](documentation/img/logosProviders/ionos.jpg)|
 | [https://ionos.com](https://ionos.com) |
 
 
-**NON VERIFIED PROVIDERS** 
+### Non Verified email provider 
 
-|![](documentation/img/logosProviders/ionos.jpg)| ![](documentation/img/logosProviders/microsoft.jpg)|  ![](documentation/img/logosProviders/gmail.jpg) |
-| [https://ionos.com](https://ionos.com) |   |   |
-|![](documentation/img/logosProviders/amazon.jpg)| ![](documentation/img/logosProviders/goDaddy.jpg)|  ![](documentation/img/logosProviders/iCloud.jpg) |
-|  |   |   |
+|![](documentation/img/logosProviders/microsoft.jpg)|  ![](documentation/img/logosProviders/gmail.jpg) | ![](documentation/img/logosProviders/amazon.jpg) |
+|![](documentation/img/logosProviders/zoho.jpg) | ![](documentation/img/logosProviders/goDaddy.jpg)|  ![](documentation/img/logosProviders/iCloud.jpg) |
 |![](documentation/img/logosProviders/aol.jpg)| ![](documentation/img/logosProviders/brevo.jpg)|  ![](documentation/img/logosProviders/debugMail.jpg) |
-|  |   |   |
 |![](documentation/img/logosProviders/dyn.jpg)| ![](documentation/img/logosProviders/fastmail.jpg)|  ![](documentation/img/logosProviders/gandi.jpg) |
-|  |   |   |
 |![](documentation/img/logosProviders/mailchimp.jpg)| ![](documentation/img/logosProviders/mailee.jpg)|  ![](documentation/img/logosProviders/mailjet.jpg) |
-|  |   |   |
 |![](documentation/img/logosProviders/onlineee.jpg)| ![](documentation/img/logosProviders/postmark.jpg)|  ![](documentation/img/logosProviders/mandrill.jpg) |
-|  |   |   |
 |![](documentation/img/logosProviders/sendcloud.jpg)| ![](documentation/img/logosProviders/sendgrid.jpg)|  ![](documentation/img/logosProviders/sparkpost.jpg) |
-|  |   |   |
-|![](documentation/img/logosProviders/yahoo.jpg)| ![](documentation/img/logosProviders/yandex.jpg)|  ![](documentation/img/logosProviders/zoho.jpg) |
-|  |   |   |
+|![](documentation/img/logosProviders/yahoo.jpg)| ![](documentation/img/logosProviders/yandex.jpg)|  |
+
 
 
 
