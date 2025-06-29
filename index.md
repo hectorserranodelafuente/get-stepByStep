@@ -32,7 +32,7 @@ A modular 2FA Authentication base digital solution to start your web/app enhance
 
 | NODEMAILER   |
 |:-------------|
-|![](documentation/img/logosProviders/nodeMAiler.jpg)|
+|![](documentation/img/logosProviders/nodemAiler.jpg)|
 | Step by Step integrates nodeMailer so it allows to use a high number of email providers|
 | https://nodemailer.com |
 
@@ -40,7 +40,6 @@ A modular 2FA Authentication base digital solution to start your web/app enhance
 
 |        |          |           |
 |:-------------|:------------------|:------|
-| IONOS | AMAZON | MICROSOFT | GMAIL |
 |![](documentation/img/logosProviders/ionos.jpg)| ![](documentation/img/logosProviders/microsoft.jpg)|  ![](documentation/img/logosProviders/gmail.jpg) | ![](documentation/img/logosProviders/amazon.jpg)
 | **VERIFIED** |   |   |
 
