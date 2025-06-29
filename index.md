@@ -41,7 +41,7 @@ A modular 2FA Authentication base digital solution to start your web/app enhance
 |        |          |           |
 |:-------------|:------------------|:------|
 |![](documentation/img/logosProviders/ionos.jpg)| ![](documentation/img/logosProviders/microsoft.jpg)|  ![](documentation/img/logosProviders/gmail.jpg) |
-| **VERIFIED** |   |   |
+| **VERIFIED** [https://ionos.com](https://ionos.com) |   |   |
 |![](documentation/img/logosProviders/amazon.jpg)| ![](documentation/img/logosProviders/goDaddy.jpg)|  ![](documentation/img/logosProviders/iCloud.jpg) |
 |  |   |   |
 |![](documentation/img/logosProviders/aol.jpg)| ![](documentation/img/logosProviders/brevo.jpg)|  ![](documentation/img/logosProviders/debugMail.jpg) |
