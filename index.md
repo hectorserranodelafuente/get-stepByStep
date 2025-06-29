@@ -2,6 +2,14 @@
 layout: default
 ---
 
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
 # Repositories composition
 
 [stepByStep-starter-kit](https://github.com/hectorserranodelafuente/stepByStep-starter-kit).
@@ -16,14 +24,6 @@ layout: default
 
 [emulate](https://github.com/hectorserranodelafuente/emulate).
 
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
