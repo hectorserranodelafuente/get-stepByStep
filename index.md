@@ -40,6 +40,8 @@ A modular 2FA Authentication base digital solution to start your web/app enhance
 
 ### Verified email provider
 
+|    |
+|:-------------|
 |![](documentation/img/logosProviders/ionos.jpg)|||
 | [https://ionos.com](https://ionos.com) |||
 
