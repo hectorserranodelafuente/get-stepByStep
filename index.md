@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](documentation/img/logoStepByStep.jpg)
+A modular 2FA Authentication base digital solution to start your web/app enhanced with IA, that uses Email or SMS as second step item receiver
 
 # Repositories composition
 
