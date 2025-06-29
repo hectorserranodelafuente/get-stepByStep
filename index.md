@@ -21,10 +21,10 @@ A modular 2FA Authentication base digital solution to start your web/app enhance
 
 ## SMS providers
 
-|  Available   |
-|:-------------|
-| [https://www.labsmobile.com/](https://www.labsmobile.com/) |           | 
-| ![](documentation/img/labsMobile.jpg) |
+|  Available   | Future Developments |
+|:-------------|:-------------|
+| [https://www.labsmobile.com/](https://www.labsmobile.com/) ||           | 
+| ![](documentation/img/labsMobile.jpg) ||
 
 ## Email providers
 
