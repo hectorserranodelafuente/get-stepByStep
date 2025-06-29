@@ -38,17 +38,23 @@ A modular 2FA Authentication base digital solution to start your web/app enhance
 
 
 
-|        |          |           |
-|:-------------|:------------------|:------|
+|**VERIFIED PROVIDER**|
+|:-------------|
+|![](documentation/img/logosProviders/ionos.jpg)|
+| [https://ionos.com](https://ionos.com) |
+
+
+**NON VERIFIED PROVIDERS** 
+
 |![](documentation/img/logosProviders/ionos.jpg)| ![](documentation/img/logosProviders/microsoft.jpg)|  ![](documentation/img/logosProviders/gmail.jpg) |
-| **VERIFIED** [https://ionos.com](https://ionos.com) |   |   |
+| [https://ionos.com](https://ionos.com) |   |   |
 |![](documentation/img/logosProviders/amazon.jpg)| ![](documentation/img/logosProviders/goDaddy.jpg)|  ![](documentation/img/logosProviders/iCloud.jpg) |
 |  |   |   |
 |![](documentation/img/logosProviders/aol.jpg)| ![](documentation/img/logosProviders/brevo.jpg)|  ![](documentation/img/logosProviders/debugMail.jpg) |
 |  |   |   |
-|![](documentation/img/logosProviders/dyn.jpg)| ![](documentation/img/logosProviders/fastEmail.jpg)|  ![](documentation/img/logosProviders/gandi.jpg) |
+|![](documentation/img/logosProviders/dyn.jpg)| ![](documentation/img/logosProviders/fastmail.jpg)|  ![](documentation/img/logosProviders/gandi.jpg) |
 |  |   |   |
-|![](documentation/img/logosProviders/mailChimp.jpg)| ![](documentation/img/logosProviders/mailee.jpg)|  ![](documentation/img/logosProviders/mailjet.jpg) |
+|![](documentation/img/logosProviders/mailchimp.jpg)| ![](documentation/img/logosProviders/mailee.jpg)|  ![](documentation/img/logosProviders/mailjet.jpg) |
 |  |   |   |
 |![](documentation/img/logosProviders/onlineee.jpg)| ![](documentation/img/logosProviders/postmark.jpg)|  ![](documentation/img/logosProviders/mandrill.jpg) |
 |  |   |   |
